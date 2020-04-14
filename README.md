@@ -46,8 +46,8 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam ajudar ONG's com
 Esse projeto foi desenvolvido com as seguintes tecnologias e pacotes:
 
 - [Node.js](https://nodejs.org/en/) 
-- [Express.JS](https://expressjs.com)
-- [Knex.JS](http://knexjs.org/)
+- [Express.js](https://expressjs.com)
+- [Knex.js](http://knexjs.org/)
 - [React](https://reactjs.org)
 - [Axios](https://github.com/axios/axios)
 - [React Native](https://facebook.github.io/react-native/)
