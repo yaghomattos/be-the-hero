@@ -7,8 +7,6 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/YaghoMattos/Semana-OmniStack11?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/YaghoMattos/Semana-OmniStack11">
 	
   <a>
     <img alt="Made by YaghoMattos" src="https://img.shields.io/badge/made%20by-Yagho Mattos-%2304D361">
@@ -37,7 +35,7 @@
 O BeTheHero é um projeto que visa conectar pessoas que desejam ajudar ONG's com contribuições monetárias.
 
 <h1 align="center">
-    <img alt="Preview" title="Preview" src=".github/preview.jpg" width="500px" />
+    <img alt="Preview" title="Preview" src=".github/preview.jpg" width="1000px" />
 </h1>
 
 
