@@ -32,7 +32,7 @@
 
 ## 💻 Projeto
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam ajudar ONG's com contribuições monetárias.
+O BeTheHero é um projeto que visa conectar pessoas que desejam ajudar a ONG's que necessitam de ajuda com contribuições monetárias.
 
 <h1 align="center">
     <img alt="Preview" title="Preview" src=".github/preview.jpg" width="1000px" />
@@ -41,17 +41,10 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam ajudar ONG's com
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias e pacotes:
-
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/) 
-- [Express.js](https://expressjs.com)
-- [Knex.js](http://knexjs.org/)
 - [React](https://reactjs.org)
-- [Axios](https://github.com/axios/axios)
 - [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-- [Jest](https://jestjs.io/)
-- [Celebrate](https://www.npmjs.com/package/celebrate)
 
 ## 🔖 Layout
 
@@ -59,7 +52,7 @@ Para visualizar o layout do projeto acesse [esse link](https://www.figma.com/fil
 
 ## :information_source: Como usar
 
-Necessário ter instalado no computador [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Npm](https://www.npmjs.com/get-npm).
+Necessário ter instalado em sua máquina [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Npm](https://www.npmjs.com/get-npm).
 
 ### Utilize os seguintes comandos:
 ```bash
@@ -88,7 +81,7 @@ $ npm test
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
